@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Ala Amara, and I'm a Front-End Developer from Tunisia.</p>
+<p align="left">My name is Ala Amara, and I'm à web Developer from Tunisia.</p>
 
 ###
 
