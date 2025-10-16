@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">My name is Ala Amara, and I'm à web Developer from Tunisia.</p>
+<p align="left">I'm <strong>Ala Amara</strong>, a passionate Software & Web Developer from Tunisia 🇹🇳<br>Welcome to my digital space where I build, learn, and share!</p>
+
 
 ###
 
